@@ -65,3 +65,8 @@ Added the Imagen Studio canonical entry, generated rich reference mirrors with a
 - The unsupported direct-provider adapter and implicit sibling-checkout lookup.
 
 Actual local checks and their limits are recorded in `docs/VALIDATION.md` and `docs/evaluations/2026-10-28/consolidation.json`. No effectiveness or new deployment is inferred.
+# Local Sunday review candidate — 2026-10-30
+
+- Correct ASCII luminance indexing so the standard and detailed ramps map black to
+  dense glyphs and white to spaces. `--invert` reverses that convention as documented.
+- Add extreme-tone regression cases. No provider, installation or publication change.

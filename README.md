@@ -2,11 +2,11 @@
 
 Take the image from brief to chosen file.
 
-Watch the [64-second film](https://michaeljabbour.github.io/amplifier-skill-imagen-studio/#film): an approved image, one request for a little brighter, and how the skill changes the image you chose instead of making a new one. The example in it is fictional.
+Watch the [64-second film](https://michaeljabbour.github.io/amplifier-capability-imagen-studio/#film): an approved image, one request for a little brighter, and how the skill changes the image you chose instead of making a new one. The example in it is fictional.
 
 A creative production skill for images and ASCII art. Clarify the brief, review concrete drafts and refine the file you actually chose, with the checks and delivery details needed to use it.
 
-[Explore the site](https://michaeljabbour.github.io/amplifier-skill-imagen-studio/) · [Read the method](skills/imagen-studio/SKILL.md) · [Install guide](docs/INSTALL.md)
+[Explore the site](https://michaeljabbour.github.io/amplifier-capability-imagen-studio/) · [Read the method](skills/imagen-studio/SKILL.md) · [Install guide](docs/INSTALL.md)
 
 ## What you get
 
@@ -19,8 +19,8 @@ A creative production skill for images and ASCII art. Clarify the brief, review 
 Requires Git and Python 3.11+. Run these commands from a terminal:
 
 ```sh
-git clone https://github.com/michaeljabbour/amplifier-skill-imagen-studio.git
-cd amplifier-skill-imagen-studio
+git clone https://github.com/michaeljabbour/amplifier-capability-imagen-studio.git
+cd amplifier-capability-imagen-studio
 python3 scripts/capability.py doctor
 python3 scripts/capability.py install --dest ~/.agents/skills
 ```

@@ -97,7 +97,7 @@ def to_ascii(
         row_chars, row_colors = [], []
         for x in range(cols):
             lum = gpx[x, y] / 255.0
-            idx = int((1 - lum) * (n - 1))  # dark pixel -> dense glyph
+            idx = int(lum * (n - 1))  # ramp runs from dense/dark to sparse/light
             row_chars.append(ramp[idx])
             row_colors.append(cpx[x, y])
         lines.append("".join(row_chars))
