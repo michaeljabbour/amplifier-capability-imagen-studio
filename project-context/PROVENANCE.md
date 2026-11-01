@@ -78,3 +78,7 @@ compliance or calling paid image providers.
 ## 2026-10-28 — Public explanation and onboarding
 
 The released method is introduced through task-specific benefits, a labeled fictional output and a copyable first request. Complete clone and install commands make the documented route usable from outside the maintainer checkout. Method content, native engines and dated evaluations are unchanged.
+
+## D011 — Preserve the documented ASCII tone convention
+
+The converter's positive luminance index selected the opposite endpoint of its dark-to-light glyph ramps. Reverse that index rather than rename the ramps or change the invert option. Endpoint tests preserve both documented behavior and valid image dimensions; they do not establish image-generation quality.

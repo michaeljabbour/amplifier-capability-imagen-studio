@@ -34,3 +34,7 @@ Actual checks: 36 adapter tests pass (one opt-in checkout test skipped), coverag
 A new local runtime materializer emits an absolute-path YAML behavior with no provider/session/enrollment. Retained immutable v2 entrypoints stay untouched. No provider-package import, sibling discovery, paid call, or remote publication added. Old release history remains in `docs/NATIVE-HANDOFF.md`.
 
 Next: review local site/package, compare actual behavior only under a separately frozen study, and preserve the independent provider-server release lifecycle.
+
+## 2026-11-01 — ASCII luminance boundary correction
+
+The local ASCII converter now follows its documented dark-to-light ramp: black maps to the dense endpoint and white to the space endpoint; inversion reverses those choices. Added four endpoint regressions across standard, detailed and inverted ramps. All six local runtime/ASCII tests pass without a provider call. Existing method IDs, provider policies, media and installation routes are unchanged. No image-generation or outside-user result is inferred from these deterministic tests.
