@@ -13,3 +13,5 @@
 | Protocol-only boundary | Integration through MCP initialize, discovery, and tool calls with no package imports or sibling-repo discovery | A package dependency between the bundle and imagen-mcp |
 | Capability-gated visual QA | Pixel-level review only when the exact artifact is present in a vision-capable context | Inferring image content from a path, hash, or successful write |
 | Deterministic policy evaluation | Typed high-risk scenario execution with mock tools, independent trace predicates, and adversarial grader mutations | A canned assistant response or proof that every stochastic model complies |
+
+| coaching-session/v1 | Optional local practice/review note convention | A runtime command, authority grant or learning score |

@@ -38,3 +38,7 @@ Next: review local site/package, compare actual behavior only under a separately
 ## 2026-11-01 — ASCII luminance boundary correction
 
 The local ASCII converter now follows its documented dark-to-light ramp: black maps to the dense endpoint and white to the space endpoint; inversion reverses those choices. Added four endpoint regressions across standard, detailed and inverted ramps. All six local runtime/ASCII tests pass without a provider call. Existing method IDs, provider policies, media and installation routes are unchanged. No image-generation or outside-user result is inferred from these deterministic tests.
+
+## 2026-11-01: Optional coaching documentation
+
+Added a local opt-in practice/review guide and entry links. Preserve the native direct path, existing execution budgets and source evidence. No learner trace is saved by default. Next: verify standalone guide packaging and seek authentic human/outside-user evidence before any benefit claim. No provider call or live user study is part of this documentation change.

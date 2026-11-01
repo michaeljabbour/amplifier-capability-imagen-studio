@@ -82,3 +82,7 @@ The released method is introduced through task-specific benefits, a labeled fict
 ## D011 — Preserve the documented ASCII tone convention
 
 The converter's positive luminance index selected the opposite endpoint of its dark-to-light glyph ramps. Reverse that index rather than rename the ramps or change the invert option. Endpoint tests preserve both documented behavior and valid image dimensions; they do not establish image-generation quality.
+
+## 2026-11-01: Optional coaching stays outside native execution
+
+A local guide provides a fictional domain task, baseline, bounded practice and user-stop rules. It adds no mandatory dialogue, provider, remote harness or cross-capability import. Human learning and outside-user evidence remain separate from software conformance.

@@ -35,3 +35,7 @@ Read the ASCII reference and run `python3 scripts/asciiart.py --help` from the i
 ## Execution and evidence boundary
 
 If a needed tool/server is missing, return the concrete brief, local conversion, or blocked execution step. Do not install a provider or upload sources implicitly. Native tools are discovered against an eight-name reviewed allowlist, use mounted argument schemas, and retain lifecycle/error/cleanup behavior. Software fixtures and the retained deterministic policy gate are not proof every model follows these instructions, and prior provider canaries are historical results rather than a new live check.
+
+## Optional coaching checkpoint
+
+Read [the local coaching guide](references/coaching-session.v1.md) only when the person asks for practice or optional session bookkeeping. Keep direct artifact production available; agree a small budget, preserve the baseline and stop on goal, user exit or no meaningful gain.
